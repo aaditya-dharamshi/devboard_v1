@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ST1L05CPU33R")(type "KiCad")(uri "F:/Robotics/Library/ST1L05CPU33R/ST1L05CPU33R.kicad_sym")(options "")(descr ""))
+)
